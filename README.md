@@ -32,7 +32,8 @@
 ---
 
 ### 📜 Certifications
-- ✅ IBM AI & ML Certificate  
+- ✅ Artificial Intelligence and Machine Learning from IBM Skillnet by LPU
+- ✅ IBM AI & ML Certificate
 - ✅ Building Chatbots with IBM Watson  
 - ✅ Summer Training in Machine Learning (Cipher Schools)  
 
